@@ -1,16 +1,16 @@
-## Hi there 👋
+# Faralock – Smart Door Locks
+**فرالاک** فروشگاه تخصصی دستگیره‌های هوشمند؛ تمرکز ما امنیت، سادگی و تجربه‌ی کاربری عالی است.
 
-<!--
-**Faralock/Faralock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What we do
+- دستگیره‌های هوشمند با ورود: اثرانگشت، رمز، کارت، اپ
+- طراحی مینیمال، نصب آسان، خدمات پس از فروش
 
-Here are some ideas to get you started:
+## Quick links
+- 🌐 Website: https://example.com
+- 📞 Support: support@example.com
+- 📷 Instagram: https://instagram.com/yourhandle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Why Faralock?
+- امنیت و دوام
+- نصب سریع
+- تجربه کاربری ساده برای خانه و محل کار
