@@ -6,9 +6,9 @@
 - طراحی مینیمال، نصب آسان، خدمات پس از فروش
 
 ## Quick links
-- 🌐 Website: https://example.com
+- 🌐 Website: https://faralock.com/
 - 📞 Support: support@example.com
-- 📷 Instagram: https://instagram.com/yourhandle
+- 📷 Instagram: https://instagram.com/faralock.info
 
 ## Why Faralock?
 - امنیت و دوام
